@@ -1,4 +1,7 @@
 # Jigsaws
-
-## Authors
-Michelle Were
+#### Authors
+- Baranaba
+- Benard
+- Kendi Njeru
+- Nathan Nderitu
+- Michelle Were
