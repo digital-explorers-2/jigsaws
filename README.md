@@ -1,4 +1,7 @@
-# Jigsaw
+# Jigsaws
+#### Authors
+- Baranaba
+- Benard
+- Kendi Njeru
+- Nathan Nderitu
 
-## Authors
-Nathan Nderitu
