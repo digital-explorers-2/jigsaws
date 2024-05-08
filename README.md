@@ -15,4 +15,3 @@
 - Multiple Difficulty Levels: Adjustable number of jigsaw pieces.
 - Possibly a Real-Time Multiplayer Mode: Players can join or host puzzle rooms to solve puzzles collaboratively in real time.-
 - One more functionality
-- Multiple Difficulty Levels: Adjustable number of jigsaw pieces
