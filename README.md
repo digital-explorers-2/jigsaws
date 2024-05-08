@@ -1,4 +1,4 @@
 # Jigsaws
-
-## Authors
-- Benard Adala Wanyande
+#### Authors
+- Baranaba
+- Benard
