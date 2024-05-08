@@ -4,4 +4,4 @@
 - Benard
 - Kendi Njeru
 - Nathan Nderitu
-
+- Michelle Were
