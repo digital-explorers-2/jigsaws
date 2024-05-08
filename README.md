@@ -1,4 +1,5 @@
-## Jigsaws
-
-## Authors
-1. Kendi Njeru
+# Jigsaws
+#### Authors
+- Baranaba
+- Benard
+- Kendi Njeru
